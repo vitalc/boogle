@@ -1,0 +1,26 @@
+.content
+{
+	position: static;
+	text-align: center;
+}
+.slika
+{
+	width: 90px;
+	height: 40px;
+	position: fixed;
+	top: auto;
+	right: auto;
+	left:  auto;
+	
+}
+.besedilo
+{
+	color:red;
+	position: relative;
+	top:60px;
+	
+}
+.gumb
+{
+	color:blue
+}
