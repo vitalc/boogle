@@ -2,22 +2,23 @@
 {
 	position: static;
 	text-align: center;
+	background: PaleGoldenRod ;
 }
 .slika
 {
 	width: 90px;
 	height: 40px;
-	position: fixed;
-	top: auto;
+	position: fixed center;
 	right: auto;
 	left:  auto;
-	
+	top: auto;
 }
 .besedilo
 {
 	color:red;
 	position: relative;
 	top:60px;
+	
 	
 }
 .gumb
